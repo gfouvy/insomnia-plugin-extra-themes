@@ -5,5 +5,7 @@ module.exports.themes = [
   require('./themes/early-riser'),
   require('./themes/electron-highlighter'),
   require('./themes/oceanic-next'),
-  require('./themes/material-palenight')
+  require('./themes/material-palenight'),
+  require('./themes/ironman'),
+  require('./themes/captain-america')
 ];
